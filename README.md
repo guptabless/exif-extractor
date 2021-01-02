@@ -1,6 +1,6 @@
 # exif-extractor
 
-This tool extracts the exif information from an image.
+This tool extracts the exif information from an image .
 
 ## Requirment:
 
@@ -16,6 +16,6 @@ This tool extracts the exif information from an image.
 
 ## usage: 
 
-exif.py  -i <" A valid image location "> 
+exif.py  -i <" A valid image location or a text file with multiple image locations "> 
 
 
